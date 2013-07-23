@@ -3,6 +3,7 @@
 This is the sample application for 
 [*One Month Rails: Teach Yourself to Code*](http://onemonthrails.com)
 
-Testing out git branching
+This is a link to SendGrid
+[*SendGrid:*] (http://sendgrid.com)
 
 by [Mattan Griffel](http://mattangriffel.com)
